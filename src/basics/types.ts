@@ -26,7 +26,7 @@ enum Color {
   Blue,
 }
 const c: Color = Color.Green;
-console.log(c); // 1
+// console.log(c); // 1
 
 // Any
 let notSure: any = 4;
