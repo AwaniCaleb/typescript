@@ -81,8 +81,8 @@ typescript/
 
 ### Projects
 - Todo application
-- API integrations
-- Data manipulation examples
+<!-- - API integrations -->
+<!-- - Data manipulation examples -->
 
 ### Utilities
 - Logging utility
@@ -135,6 +135,7 @@ typescript/
 
 - [TypeScript Official Documentation](https://www.typescriptlang.org/docs/)
 - [TypeScript Deep Dive](https://basarat.gitbook.io/typescript/)
+- [W3Schools TypeScript](https://www.w3schools.com/typescript/) (Best for beginners)
 - [TypeScript Playground](https://www.typescriptlang.org/play)
 - [Effective TypeScript](https://effectivetypescript.com/) (Book)
 
